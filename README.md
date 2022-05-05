@@ -4,6 +4,7 @@ Hey, I'm Advay, an incoming student at the Texas Academy of Mathematics and Scie
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=boltstrike77&show_icons=true&theme=algolia" alt="boltstrike77" width="500" mb="12px" />
 
+
 ## Contact
 
 [advay.vyas@gmail.com](mailto:advay.vyas@gmail.com)
