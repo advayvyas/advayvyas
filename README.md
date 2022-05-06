@@ -1,4 +1,4 @@
-# Advay Vyas ![](https://visitor-badge.glitch.me/badge?page_id=boltstrike77.boltstrike77)
+# Advay Vyas 
 
 Hey, I'm Advay, an incoming student at the Texas Academy of Mathematics and Science. I'm on the computer science track and am excited to research machine learning in Python! 
 
