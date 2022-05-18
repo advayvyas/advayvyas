@@ -2,9 +2,12 @@
 
 I'm Advay, an incoming student at the Texas Academy of Mathematics and Science. I'm on the computer science track and I'm excited to research machine learning in Python! 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=boltstrike77&show_icons=true&theme= algolia" alt="boltstrike77" width="500" mb="12px" />
+
 ## Contact
 
 [advay.vyas@gmail.com](mailto:advay.vyas@gmail.com)
+
 
 ## Languages
 
