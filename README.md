@@ -1,6 +1,6 @@
 # Advay Vyas 
 
-Hi! I'm Advay, an incoming student at the Texas Academy of Mathematics and Science. I'm on the computer science + math track and I'm excited to research machine learning! 
+Hi! I'm Advay, a student at the Texas Academy of Mathematics and Science. I'm excited to learn ML! 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=boltstrike77&show_icons=true&theme= algolia" alt="boltstrike77" width="500" mb="12px" />
 
