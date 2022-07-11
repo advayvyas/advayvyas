@@ -8,7 +8,6 @@ Hi! I'm Advay, a student at the Texas Academy of Mathematics and Science. I'm ex
 
 [advay.vyas@gmail.com](mailto:advay.vyas@gmail.com)
 
-
 ## Languages
 
 <div>
