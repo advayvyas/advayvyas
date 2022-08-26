@@ -6,6 +6,7 @@ Hi! I'm a student at the Texas Academy of Mathematics and Science. I'm intereste
 
 ## Contact
 
+<a href = "https://www.linkedin.com/in/advay-vyas/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp; </a> <br>
 [advay.vyas@gmail.com](mailto:advay.vyas@gmail.com)
 
 ## Languages & Tools
