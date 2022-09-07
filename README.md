@@ -2,7 +2,7 @@
 
 Hi! I'm a junior at the Texas Academy of Mathematics and Science. I'm interested in artificial intelligence and passionate about robotics. I recently competed in the TAMS AIS Summer Competition and TSA State VEX Competition with CHS. I'm experienced in Java, Python, Pandas, and Git and familiar with C++, HTML, CSS, JS, and Bootstrap.
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=boltstrike77&show_icons=true&theme=" alt="boltstrike77" width="500" mb="12px" /> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=boltstrike77&show_icons=true&theme=" alt="boltstrike77" width="500" mb="12px" />
 
 ## Contact
 
