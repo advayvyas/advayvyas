@@ -1,7 +1,6 @@
 # Advay Vyas 
 
-Hey! I'm Advay Vyas, a senior at the Texas Academy of Mathematics and Science! I'm interested in a wide variety of academic fields, including pure mathematics, machine learning, computer science, data science, linguistics, and history. I pursue competitions frequently and am active in Boy Scouts as a Troop 840 Life Scout. In my free time, I love to bike, read, and read Wikipedia articles on anything from car engines to combinatorics. Feel free to connect with me or contact me at my email!
-
+Hey! I'm Advay Vyas, a senior at the Texas Academy of Mathematics and Science! I'm interested in a wide variety of academic fields, including pure mathematics, machine learning, computer science, data science, linguistics, history, and political science. I pursue competitions frequently and am active in Boy Scouts as a Troop 840 Life Scout. In my free time, I love to bike, read, and read Wikipedia articles on anything from car engines to combinatorics. Feel free to connect with me or contact me at my email!
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=boltstrike77&show_icons=true&theme=" alt="boltstrike77" width="450" mb="12px" />
 
 ## Contact
