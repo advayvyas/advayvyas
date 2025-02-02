@@ -1,6 +1,6 @@
 # Advay Vyas 
 
-Hey! I'm Advay Vyas, a student at the University of Texas at Austin! I'm interested in a wide variety of academic fields, including pure mathematics, machine learning, computer science, data science, linguistics, history, and political science. I pursue competitions frequently and am a Troop 840 Eagle Scout. In my free time, I love to bike, read, and read Wikipedia articles on anything from car engines to combinatorics. Feel free to connect with me or contact me at my email!
+Hey! I'm Advay Vyas, a freshman at the University of Texas at Austin! I'm interested in a wide variety of academic fields, including pure mathematics, machine learning, computer science, data science, linguistics, history, and political science. I pursue competitions frequently and am a Troop 840 Eagle Scout. In my free time, I love to bike, read, and read Wikipedia articles on anything from car engines to combinatorics. Feel free to connect with me or contact me at my email!
 <br>
 
 ## Languages & Tools
