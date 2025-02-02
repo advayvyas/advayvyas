@@ -3,11 +3,6 @@
 Hey! I'm Advay Vyas, a student at the University of Texas at Austin! I'm interested in a wide variety of academic fields, including pure mathematics, machine learning, computer science, data science, linguistics, history, and political science. I pursue competitions frequently and am a Troop 840 Eagle Scout. In my free time, I love to bike, read, and read Wikipedia articles on anything from car engines to combinatorics. Feel free to connect with me or contact me at my email!
 <br>
 
-## Contact
-
-<a href = "https://www.linkedin.com/in/advay-vyas/"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp; </a> <br>
-[advay.vyas@gmail.com](mailto:advay.vyas@gmail.com)
-
 ## Languages & Tools
 
 <div>
