@@ -1,7 +1,10 @@
 # Advay Vyas 
 
-Hey! I'm Advay Vyas, a freshman at the University of Texas at Austin! I'm interested in a wide variety of academic fields, including pure mathematics, machine learning, computer science, data science, linguistics, history, and political science. I pursue competitions frequently and am a Troop 840 Eagle Scout. In my free time, I love to bike, read, and read Wikipedia articles on anything from car engines to combinatorics. Feel free to connect with me or contact me at my email!
-<br>
+Hey! I'm Advay Vyas, a freshman at the University of Texas at Austin! Feel free to contact me at my email!
+
+<a href="advayvyas.github.io">Another place to visit!</a>
+
+> "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us" - Helen Keller
 
 ## Languages & Tools
 
