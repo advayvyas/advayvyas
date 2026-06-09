@@ -2,7 +2,7 @@
 
 Hey! I'm Advay Vyas, a sophomore at the University of Texas at Austin! Feel free to contact me at my email!
 
-<a href="https://advayvyas.github.io">Another place to visit!</a>
+<a href="https://advayvyas.github.io">A place to learn more about me!</a>
 
 > "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us" - Helen Keller
 
