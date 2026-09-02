@@ -1,6 +1,6 @@
 # Advay Vyas 
 
-Hey! I'm Advay Vyas, a sophomore at the University of Texas at Austin! Feel free to contact me at my email!
+Hey! I'm Advay Vyas, a junior at the University of Texas at Austin! Feel free to contact me at my email!
 
 <a href="https://advayvyas.github.io">A place to learn more about me!</a>
 
